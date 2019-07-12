@@ -3,7 +3,7 @@ Relación de podcasts relacionados directamente con el desarrollo de sofware o f
 
 Todas las sugerencias y contribuciones son bienvenidas. 
 
-Por favor, leed el archivo CONTRIBUTING.md antes de contribuir.
+Por favor, leed el archivo [CONTRIBUTING.md](CONTRIBUTING.md) antes de contribuir.
 
 Nombre | Autor/a | Descripción | Feed | Apple Podcast | Spotify
 ------ | ------- | ----------- | ---- | ------------- | -------
