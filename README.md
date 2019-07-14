@@ -18,7 +18,7 @@ Tomando Un Café | José Jiménez | José Jiménez nos acerca en cada episodio e
 We.Developers | | | http://wedevelopers.com/feed/podcast/ | https://podcasts.apple.com/es/podcast/we-developers/id480369176 | |
 Web Reactiva | Daniel Primo | Web Reactiva es el podcast free de danielprimo.io. Semanalmente a través de este programa cuenta historias que tienen que ver con la programación y el desarrollo web. Recursos, reflexiones y todo el ecosistema de producción web: backend, frameworks, cms, cloud, despliegues, frontend, programación a medida. | https://www.danielprimo.io/podcast/feed.xml | https://podcasts.apple.com/es/podcast/web-reactiva/id1285264897 | https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=0WE55B2mTpC6g3vLwmbyMA
 WeCodeSign | Ignacio Villanueva | Podcast especializado en frontend development pero donde se también otras areas del mundo del desarrollo | http://feeds.feedburner.com/WecodesignPodcast | https://podcasts.apple.com/es/podcast/wecodesign-podcast/id1113501272 | 
-
+WhatTheFront | Miguel Ángel Durán | El podcast de @midudev dedicado al mundo frontend y el desarrollo web. Cada entrega trata diferentes temas de interés contando con diferentes puntos de vista. Desde las últimas tendencias, noticias de relevancia, debates y consejos. | https://www.ivoox.com/podcast-wtfront-what-the-frontend_fg_f1647356_filtro_1.xml | https://podcasts.apple.com/es/podcast/wtfront-what-the-frontend/id1448113230 | https://open.spotify.com/show/1Et8hZk1DwKw6PtBFGpwSD
 
 
 
