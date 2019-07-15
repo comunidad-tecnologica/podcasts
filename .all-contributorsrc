@@ -13,11 +13,39 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "midudev",
+      "name": "Miguel Ángel Durán",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1561955?v=4",
+      "profile": "https://midu.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pabloleonalcaide",
+      "name": "Pablo Leon",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20721770?v=4",
+      "profile": "https://github.com/pabloleonalcaide",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "delineas",
+      "name": "Daniel Primo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1122071?v=4",
+      "profile": "http://danielprimo.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "podcasts",
   "projectOwner": "comunidad-tecnologica",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
 }

@@ -1,5 +1,7 @@
 # Podcasts
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+
 Relación de podcasts relacionados directamente con el desarrollo de sofware o fuertemente ligados al mismo.
 
 Todas las sugerencias y contribuciones son bienvenidas. 
@@ -23,7 +25,9 @@ Nombre | Autor/a | Descripción | Feed | Apple Podcast | Spotify
 [WeCodeSign](http://wecodesignpodcast.com/) | Ignacio Villanueva | Podcast especializado en frontend development pero donde se también otras areas del mundo del desarrollo | [Feed](http://feeds.feedburner.com/WecodesignPodcast) | [Apple Podcasts](https://podcasts.apple.com/es/podcast/wecodesign-podcast/id1113501272) | 
 [WhatTheFront](https://www.ivoox.com/podcast-wtfront-what-the-frontend_sq_f1647356_1.html) | Miguel Ángel Durán | El podcast de @midudev dedicado al mundo frontend y el desarrollo web. Cada entrega trata diferentes temas de interés contando con diferentes puntos de vista. Desde las últimas tendencias, noticias de relevancia, debates y consejos. | [Feed](https://www.ivoox.com/podcast-wtfront-what-the-frontend_fg_f1647356_filtro_1.xml) | [Apple Podcasts](https://podcasts.apple.com/es/podcast/wtfront-what-the-frontend/id1448113230) | [Spotify](https://open.spotify.com/show/1Et8hZk1DwKw6PtBFGpwSD)
 
-## Contributors ✨
+
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -32,6 +36,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/jjramosj"><img src="https://avatars0.githubusercontent.com/u/42832980?v=4" width="100px;" alt="jjramosj"/><br /><sub><b>jjramosj</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jjramosj" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://midu.dev"><img src="https://avatars3.githubusercontent.com/u/1561955?v=4" width="100px;" alt="Miguel Ángel Durán"/><br /><sub><b>Miguel Ángel Durán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=midudev" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pabloleonalcaide"><img src="https://avatars0.githubusercontent.com/u/20721770?v=4" width="100px;" alt="Pablo Leon"/><br /><sub><b>Pablo Leon</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=pabloleonalcaide" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://danielprimo.io"><img src="https://avatars2.githubusercontent.com/u/1122071?v=4" width="100px;" alt="Daniel Primo"/><br /><sub><b>Daniel Primo</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=delineas" title="Documentation">📖</a></td>
   </tr>
 </table>
 
