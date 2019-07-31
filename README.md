@@ -1,6 +1,6 @@
 # Podcasts
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 Relación de podcasts relacionados directamente con el desarrollo de sofware o fuertemente ligados al mismo.
 
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://midu.dev"><img src="https://avatars3.githubusercontent.com/u/1561955?v=4" width="100px;" alt="Miguel Ángel Durán"/><br /><sub><b>Miguel Ángel Durán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=midudev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/pabloleonalcaide"><img src="https://avatars0.githubusercontent.com/u/20721770?v=4" width="100px;" alt="Pablo Leon"/><br /><sub><b>Pablo Leon</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=pabloleonalcaide" title="Documentation">📖</a></td>
     <td align="center"><a href="http://danielprimo.io"><img src="https://avatars2.githubusercontent.com/u/1122071?v=4" width="100px;" alt="Daniel Primo"/><br /><sub><b>Daniel Primo</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=delineas" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://academy.leewayweb.com"><img src="https://avatars0.githubusercontent.com/u/1532615?v=4" width="100px;" alt="Muc"/><br /><sub><b>Muc</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=mchojrin" title="Documentation">📖</a></td>
   </tr>
 </table>
 
