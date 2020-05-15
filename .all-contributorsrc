@@ -58,6 +58,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jdvr",
+      "name": "Juan D. Vega",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6184100?v=4",
+      "profile": "http://juandavidvega.es",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -65,5 +74,6 @@
   "projectOwner": "comunidad-tecnologica",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "skipCi": true
 }
