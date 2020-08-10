@@ -52,6 +52,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jonastg"><img src="https://avatars2.githubusercontent.com/u/2404262?v=4" width="100px;" alt=""/><br /><sub><b>Jonas Talavera</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jonastg" title="Documentation">📖</a></td>
     <td align="center"><a href="http://juandavidvega.es"><img src="https://avatars0.githubusercontent.com/u/6184100?v=4" width="100px;" alt=""/><br /><sub><b>Juan D. Vega</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jdvr" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://devattitude.wordpress.com"><img src="https://avatars2.githubusercontent.com/u/1423982?v=4" width="100px;" alt=""/><br /><sub><b>Xurxo Fresco</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=xurxof" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
