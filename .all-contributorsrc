@@ -49,6 +49,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jonastg",
+      "name": "Jonas Talavera",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2404262?v=4",
+      "profile": "https://github.com/jonastg",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jdvr",
+      "name": "Juan D. Vega",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6184100?v=4",
+      "profile": "http://juandavidvega.es",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "xurxof",
+      "name": "Xurxo Fresco",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1423982?v=4",
+      "profile": "http://devattitude.wordpress.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -56,5 +83,6 @@
   "projectOwner": "comunidad-tecnologica",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "skipCi": true
 }
