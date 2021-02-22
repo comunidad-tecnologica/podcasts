@@ -47,21 +47,23 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jjramosj"><img src="https://avatars0.githubusercontent.com/u/42832980?v=4" width="100px;" alt=""/><br /><sub><b>jjramosj</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jjramosj" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://midu.dev"><img src="https://avatars3.githubusercontent.com/u/1561955?v=4" width="100px;" alt=""/><br /><sub><b>Miguel Ángel Durán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=midudev" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/pabloleonalcaide"><img src="https://avatars0.githubusercontent.com/u/20721770?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Leon</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=pabloleonalcaide" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://danielprimo.io"><img src="https://avatars2.githubusercontent.com/u/1122071?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Primo</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=delineas" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://academy.leewayweb.com"><img src="https://avatars0.githubusercontent.com/u/1532615?v=4" width="100px;" alt=""/><br /><sub><b>Muc</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=mchojrin" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/jonastg"><img src="https://avatars2.githubusercontent.com/u/2404262?v=4" width="100px;" alt=""/><br /><sub><b>Jonas Talavera</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jonastg" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://juandavidvega.es"><img src="https://avatars0.githubusercontent.com/u/6184100?v=4" width="100px;" alt=""/><br /><sub><b>Juan D. Vega</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jdvr" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jjramosj"><img src="https://avatars0.githubusercontent.com/u/42832980?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jjramosj</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jjramosj" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://midu.dev"><img src="https://avatars3.githubusercontent.com/u/1561955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miguel Ángel Durán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=midudev" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pabloleonalcaide"><img src="https://avatars0.githubusercontent.com/u/20721770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pablo Leon</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=pabloleonalcaide" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://danielprimo.io"><img src="https://avatars2.githubusercontent.com/u/1122071?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Primo</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=delineas" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://academy.leewayweb.com"><img src="https://avatars0.githubusercontent.com/u/1532615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muc</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=mchojrin" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jonastg"><img src="https://avatars2.githubusercontent.com/u/2404262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jonas Talavera</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jonastg" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://juandavidvega.es"><img src="https://avatars0.githubusercontent.com/u/6184100?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan D. Vega</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jdvr" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://devattitude.wordpress.com"><img src="https://avatars2.githubusercontent.com/u/1423982?v=4" width="100px;" alt=""/><br /><sub><b>Xurxo Fresco</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=xurxof" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://devattitude.wordpress.com"><img src="https://avatars2.githubusercontent.com/u/1423982?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xurxo Fresco</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=xurxof" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://jartigag.xyz"><img src="https://avatars.githubusercontent.com/u/33371871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier Artiga</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/podcasts/commits?author=jartigag" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
