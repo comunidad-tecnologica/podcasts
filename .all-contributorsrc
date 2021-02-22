@@ -76,6 +76,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jartigag",
+      "name": "Javier Artiga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33371871?v=4",
+      "profile": "https://jartigag.xyz",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
